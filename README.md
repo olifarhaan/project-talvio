@@ -77,6 +77,6 @@ Talvio is a microservices-based job application management system built with Spr
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE[https://github.com/talvio/talvio/blob/main/LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 If you have any questions or need assistance, please contact me at [alifarhan231087@gmail.com](mailto:alifarhan231087@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/olifarhaan/).
