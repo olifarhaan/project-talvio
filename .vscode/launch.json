@@ -1,0 +1,45 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Application Service",
+            "request": "launch",
+            "mainClass": "com.talvio.application.ApplicationApp",
+            "projectName": "application",
+            "envFile": "${workspaceFolder}/application/.env"
+        },
+        {
+            "type": "java",
+            "name": "Job Service",
+            "request": "launch",
+            "mainClass": "com.talvio.job.JobApp",
+            "projectName": "job",
+            "envFile": "${workspaceFolder}/job/.env"
+        },
+        {
+            "type": "java",
+            "name": "Job Seeker Service",
+            "request": "launch",
+            "mainClass": "com.talvio.job_seeker.JobSeekerApp",
+            "projectName": "job-seeker",
+            "envFile": "${workspaceFolder}/job-seeker/.env"
+        },
+        {
+            "type": "java",
+            "name": "User Service",
+            "request": "launch",
+            "mainClass": "com.talvio.user.UserApp",
+            "projectName": "user",
+            "envFile": "${workspaceFolder}/user/.env"
+        },
+        {
+            "type": "java",
+            "name": "Service Registry",
+            "request": "launch",
+            "mainClass": "com.talvio.service_registry.ServiceRegistryApp",
+            "projectName": "service_registry",
+            "envFile": "${workspaceFolder}/service_registry/.env"
+        }
+    ]
+}
