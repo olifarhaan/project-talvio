@@ -1,11 +1,11 @@
 {
     "java.compile.nullAnalysis.mode": "automatic",
     "java.project.sourcePaths": [
-        "applicant/src/main/java",
-        "application/src/main/java",
-        "job/src/main/java",
-        "job-seeker/src/main/java",
-        "user/src/main/java"
+        "application-service/src/main/java",
+        "job-service/src/main/java",
+        "job-seeker-service/src/main/java",
+        "user-service/src/main/java",
+        "service-registry/src/main/java"
     ],
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {

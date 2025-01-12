@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GatewayApp",
+            "request": "launch",
+            "mainClass": "com.talvio.gateway.GatewayApp",
+            "projectName": "gateway"
+        },
+        {
+            "type": "java",
+            "name": "ServiceRegistryApp",
+            "request": "launch",
+            "mainClass": "com.talvio.service_registry.ServiceRegistryApp",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Application Service",
             "request": "launch",
             "mainClass": "com.talvio.application.ApplicationApp",
